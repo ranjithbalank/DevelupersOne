@@ -120,7 +120,11 @@ const Interns = () => {
             </DialogContent>
           </Dialog>
         </div>
-
+         <br/>
+        <a href="https://develupers1-my.sharepoint.com/:f:/g/personal/abishek_develupers_in/EiR6DgmIz0dKtAZgfu2Y2rcBuJTIKE41yqlShb5INlL35g?e=UgYrLd">
+          <button className="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition">
+            Info Folder</button>
+        </a>
         <Card>
           <CardHeader>
             <CardTitle>All Interns</CardTitle>
