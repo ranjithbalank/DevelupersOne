@@ -109,7 +109,11 @@ const Finance = () => {
             <span>New Transaction</span>
           </Button>
         </div>
-
+         <br/>
+        <a href="https://develupers1-my.sharepoint.com/:f:/g/personal/abishek_develupers_in/EvvvI9dUm8FCve3XBtO_6cYBuEvd9h4hOclSuEauocarmA?e=n4X8AB">
+          <button className="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition">
+            Info Folder</button>
+        </a>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           <Card className="bg-green-50 dark:bg-green-900/20">
             <CardHeader className="pb-2">
