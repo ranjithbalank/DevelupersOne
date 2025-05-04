@@ -286,20 +286,7 @@ const Clients = () => {
                         onChange={handleInputChange}
                       />
                     </div>
-                     <a
-                        href="https://develupers1-my.sharepoint.com/:f:/g/personal/abishek_develupers_in/EkQk9ReshvlDqBeUmeKN2fQB-jUhi4wLWy4rDqp1dmqZJA?e=sqJnu7"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        <button className="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition">
-                          Intake Form
-                        </button>
-                      </a>
-            
-                      <a href="https://develupers1-my.sharepoint.com/:f:/g/personal/abishek_develupers_in/EttHw8KIq2dAhpe8ASFkScsB800sP_25l5JuiHM8LcHFyg?e=IZqid2">
-                      <button className="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition">
-                          Info Folder</button>
-                      </a>
+                   
                     <div className="space-y-2">
                       <Label htmlFor="notes">Notes</Label>
                       <Textarea
