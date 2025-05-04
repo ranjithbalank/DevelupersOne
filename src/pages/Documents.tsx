@@ -137,7 +137,11 @@ const Documents = () => {
             onChange={(e) => setSearchQuery(e.target.value)}
           />
         </div>
-
+        <br/>
+        <a href="https://develupers1-my.sharepoint.com/:f:/g/personal/abishek_develupers_in/EjiB1jyKaAlLpOxQVGsauWQBanPIM3FA73X0XH2nQNZcog?e=Hy6m1H">
+          <button className="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition">
+            Info Folder</button>
+        </a>
         <Card>
           <CardHeader>
             <CardTitle>All Documents</CardTitle>
